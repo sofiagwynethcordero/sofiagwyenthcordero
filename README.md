@@ -46,3 +46,22 @@ Bachelor of Science in Computer Science
 
 ### Certifications 
 
+<p align ="left"><a href="https://drive.google.com/file/d/1Lw7VpTyl8zth-dWE3J3cNa_PUN1aOFLN/view?usp=sharing" ><br>Business Analytics with Excel</a> <br>
+                   Simplilearn Corporation <br>
+                   September 07, 2023 </center></p>
+
+<p align ="left"><a href="https://drive.google.com/file/d/14SQUl1iRChwizyHjficr4jvIapOZ6qPY/view?usp=sharing" ><br>Intro To Programming</a> <br>
+                   Kaggle <br>
+                   November 09, 2023 </center></p>
+
+<p align ="left"><a href="https://courses.cognitiveclass.ai/certificates/77efcbd99c31478c9f782f2c0eb43884" ><br>SQL and Relational Databases 101</a> <br>
+                   Cognitive Class <br>
+                   November 04, 2022 </center></p>
+
+<p align ="left"><a href="https://www.credly.com/badges/9399748b-0645-49d3-8975-98c460d90e85/print?fbclid=IwAR2MwFLc3od-Ta1QbC5FtZ5sKZYqMG3n1RWArHnu3jQTMo341TH1SbK9JpM" ><br>Data Analytics Essentials</a> <br>
+                   Cisco <br>
+                   September 24, 2023 </center></p>
+
+<p align ="left"><a href="https://www.credly.com/badges/6ac9f1a9-edf1-4fb8-9451-af7bb51fddad/print?fbclid=IwAR1ufiiRja1BqcVvMxsNo8RVy98LvvjuJJ7qZ7UM5nAT-mTkH6bDpV1XypY" ><br>Introduction to Data Science</a> <br>
+                   Cisco <br>
+                   September 25, 2023 </center></p>
